@@ -1,6 +1,7 @@
 # http://www.puppetcookbook.com/posts/install-multiple-packages.html
 
 $packages = [
+  "ant",
   "bash",
   "bzip2",
   "cmake",
@@ -41,6 +42,9 @@ $packages = [
   "ruby-irb",
   "ruby-rdoc",
   "ruby-ri",
+  "ruby19",
+  "ruby19-doc",
+  "ruby19-irb",
   "rsync",
   "screen",
   "sed",
