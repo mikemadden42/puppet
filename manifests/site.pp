@@ -41,8 +41,6 @@ $packages = [
   "rpm-build",
   "ruby",
   "ruby-irb",
-  "ruby-rdoc",
-  "ruby-ri",
   "rsync",
   "screen",
   "sed",
