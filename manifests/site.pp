@@ -1,7 +1,6 @@
 # http://www.puppetcookbook.com/posts/install-multiple-packages.html
 
 $packages = [
-  'ant',
   'bash',
   'bzip2',
   'cmake',
@@ -13,7 +12,6 @@ $packages = [
   'gcc',
   'gcc-c++',
   'git',
-  'glib2-devel',
   'gzip',
   'grep',
   'iotop',
@@ -21,10 +19,10 @@ $packages = [
   'less',
   'lftp',
   'lsof',
-  'lua',
   'make',
   'mlocate',
   'nmap',
+  'ntp',
   'java-1.7.0-openjdk',
   'java-1.7.0-openjdk-devel',
   'net-tools',
