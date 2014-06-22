@@ -70,3 +70,11 @@ service { $services:
   enable => true,
   #noop   => true
 }
+
+user { 'madden':
+  ensure     => 'present',
+  comment    => 'Michael Madden',
+  managehome => true,
+  #noop       => true,
+  shell      => '/bin/bash'
+}
