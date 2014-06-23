@@ -76,3 +76,7 @@ user { 'madden':
   #noop       => true,
   shell      => '/bin/bash'
 }
+
+exec { "yum_upgrade":
+  command => "/usr/bin/yum upgrade -y"
+}
