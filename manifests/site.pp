@@ -80,3 +80,6 @@ user { 'madden':
 exec { "yum_upgrade":
   command => "/usr/bin/yum upgrade -y"
 }
+
+class { 'iptables':
+}
