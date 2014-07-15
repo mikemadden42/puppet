@@ -77,9 +77,6 @@ user { 'madden':
   shell      => '/bin/bash'
 }
 
-exec { "yum_upgrade":
-  command => "/usr/bin/yum upgrade -y"
-}
-
-class { 'iptables':
+exec { 'yum_upgrade':
+  command => '/usr/bin/yum upgrade -y'
 }
