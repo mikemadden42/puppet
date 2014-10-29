@@ -12,6 +12,9 @@ $packages = [
   'gcc',
   'gcc-c++',
   'git',
+  'golang',
+  'golang-vet',
+  'golang-vim',
   'gzip',
   'grep',
   'iotop',
@@ -48,7 +51,8 @@ $packages = [
   'tcpdump',
   'vim-enhanced',
   'wget',
-  'xz'
+  'xz',
+  'zsh'
 ]
 
 package { $packages:
