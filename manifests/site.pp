@@ -3,6 +3,7 @@
 $packages = [
   'bash',
   'bzip2',
+  'clang-devel',
   'cmake',
   'coreutils',
   'cpio',
@@ -12,6 +13,7 @@ $packages = [
   'gcc',
   'gcc-c++',
   'git',
+  'glib2-devel',
   'golang',
   'golang-vet',
   'golang-vim',
