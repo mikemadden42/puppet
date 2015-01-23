@@ -54,6 +54,7 @@ $packages = [
   'vim-enhanced',
   'wget',
   'xz',
+  'yum-cron',
   'zsh'
 ]
 
@@ -66,7 +67,8 @@ $services = [
   'crond',
   'ntpd',
   'rsyslog',
-  'sshd'
+  'sshd',
+  'yum-cron'
 ]
 
 service { $services:
