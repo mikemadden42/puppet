@@ -39,6 +39,7 @@ $packages = [
   'puppet',
   'procps',
   'python',
+  'python-pip',
   'redhat-lsb',
   'rpmlint',
   'rpm-build',
@@ -55,6 +56,7 @@ $packages = [
   'wget',
   'xz',
   'yum-cron',
+  'yum-presto',
   'zsh'
 ]
 
