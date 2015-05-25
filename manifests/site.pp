@@ -3,6 +3,7 @@
 $packages = [
   'bash',
   'bzip2',
+  'bind-utils',
   'clang-devel',
   'cmake',
   'coreutils',
