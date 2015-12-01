@@ -18,6 +18,7 @@ $packages = [
   'grep',
   'gzip',
   'iotop',
+  'ipython',
   'ksh',
   'less',
   'lftp',
