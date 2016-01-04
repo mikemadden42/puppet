@@ -1,6 +1,7 @@
 # http://www.puppetcookbook.com/posts/install-multiple-packages.html
 
 $packages = [
+  'ant',
   'awscli',
   'bash',
   'build-essential',
