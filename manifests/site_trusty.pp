@@ -2,6 +2,7 @@
 
 $packages = [
   'ant',
+  'atop',
   'awscli',
   'bash',
   'build-essential',
@@ -10,6 +11,7 @@ $packages = [
   'coreutils',
   'cpio',
   'curl',
+  'dos2unix',
   'dmidecode',
   'dnsutils',
   'fping',
@@ -18,6 +20,8 @@ $packages = [
   'golang',
   'grep',
   'gzip',
+  'htop',
+  'iftop',
   'iotop',
   'ipython',
   'ksh',
