@@ -27,6 +27,7 @@ $packages = [
   'ksh',
   'less',
   'lftp',
+  'libkeyutils-dev',
   'lsof',
   'make',
   'mlocate',
