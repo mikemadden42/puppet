@@ -7,6 +7,7 @@ $packages = [
   'bash',
   'build-essential',
   'bzip2',
+  'clang',
   'cmake',
   'coreutils',
   'cpio',
