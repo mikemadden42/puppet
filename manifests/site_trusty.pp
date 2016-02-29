@@ -30,6 +30,7 @@ $packages = [
   'less',
   'lftp',
   'libkeyutils-dev',
+  'libperl-critic-perl',
   'lsof',
   'make',
   'mlocate',
