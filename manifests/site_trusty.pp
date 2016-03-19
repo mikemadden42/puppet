@@ -22,6 +22,7 @@ $packages = [
   'golang',
   'grep',
   'gzip',
+  'hwloc',
   'htop',
   'iftop',
   'iotop',
