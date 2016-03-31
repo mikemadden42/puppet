@@ -76,6 +76,7 @@ $packages = [
   'sudo',
   'tar',
   'tcpdump',
+  'tmux',
   'vim-nox',
   'vim-puppet',
   'wget',
