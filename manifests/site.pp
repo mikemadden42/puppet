@@ -18,7 +18,6 @@ $packages = [
   'git',
   'glib2-devel',
   'golang',
-  'golang-vet',
   'grep',
   'gzip',
   'iotop',
