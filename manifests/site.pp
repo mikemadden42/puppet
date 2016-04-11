@@ -40,6 +40,7 @@ $packages = [
   'perltidy',
   'procps',
   'puppet',
+  'PyYAML',
   'pychecker',
   'python',
   'python-argparse',
