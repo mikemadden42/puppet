@@ -45,6 +45,7 @@ $packages = [
   'python-argparse',
   'python-jinja2',
   'python-pip',
+  'python-psutil',
   'python-requests',
   'python-six',
   'redhat-lsb',
