@@ -1,6 +1,7 @@
 # http://www.puppetcookbook.com/posts/install-multiple-packages.html
 
 $packages = [
+  'PyYAML',
   'bash',
   'bind-utils',
   'boost-devel',
@@ -12,6 +13,7 @@ $packages = [
   'createrepo',
   'curl',
   'dmidecode',
+  'enscript',
   'fping',
   'gawk',
   'gcc',
@@ -40,7 +42,6 @@ $packages = [
   'perltidy',
   'procps',
   'puppet',
-  'PyYAML',
   'pychecker',
   'python',
   'python-argparse',

@@ -1,6 +1,7 @@
 # http://www.puppetcookbook.com/posts/install-multiple-packages.html
 
 $packages = [
+  'PyYAML',
   'bash',
   'bind-utils',
   'boost-devel',
@@ -13,6 +14,7 @@ $packages = [
   'curl',
   'deltarpm',
   'dmidecode',
+  'enscript',
   'gawk',
   'gcc',
   'gcc-c++',
@@ -40,7 +42,6 @@ $packages = [
   'perltidy',
   'procps-ng',
   'puppet',
-  'PyYAML',
   'python',
   'python-jinja2',
   'python-pip',
