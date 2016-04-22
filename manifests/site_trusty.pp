@@ -80,6 +80,7 @@ $packages = [
   'tar',
   'tcpdump',
   'tmux',
+  'ubuntu-manager-core',
   'vim-nox',
   'vim-puppet',
   'wget',
