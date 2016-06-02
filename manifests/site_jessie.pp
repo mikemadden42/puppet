@@ -68,6 +68,7 @@ $packages = [
   'python-psutil',
   'python-requests',
   'python-six',
+  'python-virtualenv',
   'python-yaml',
   'python3-jinja2',
   'python3-psutil',
