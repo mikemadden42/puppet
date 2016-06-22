@@ -69,8 +69,7 @@ $packages = [
 ]
 
 package { $packages:
-  ensure => 'installed',
-  #noop   => true
+  ensure => 'present',
 }
 
 $services = [
@@ -84,14 +83,12 @@ $services = [
 service { $services:
   ensure => 'running',
   enable => true,
-  #noop   => true
 }
 
 user { 'madden':
   ensure     => 'present',
   comment    => 'Michael Madden',
   managehome => true,
-  #noop       => true,
   shell      => '/bin/bash'
 }
 
