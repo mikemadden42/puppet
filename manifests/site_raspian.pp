@@ -18,6 +18,7 @@ $packages = [
   'dnsutils',
   'dos2unix',
   'enscript',
+  'ethtool',
   'fping',
   'gawk',
   'git',
