@@ -78,6 +78,7 @@ $packages = [
   'python3-yaml',
   'rsync',
   'ruby',
+  's3cmd',
   'screen',
   'sed',
   'strace',
