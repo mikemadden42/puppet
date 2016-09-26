@@ -19,6 +19,7 @@ $packages = [
   'dos2unix',
   'enscript',
   'ethtool',
+  'firefox-esr',
   'fping',
   'gawk',
   'git',
