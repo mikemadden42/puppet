@@ -46,7 +46,7 @@ $packages = [
   'pychecker',
   'python',
   'python-jinja2',
-  'python-pip',
+  'python2-pip',
   'python-psutil',
   'python-requests',
   'python-six',
