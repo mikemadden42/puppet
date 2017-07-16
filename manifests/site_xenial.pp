@@ -39,6 +39,7 @@ $packages = [
   'lftp',
   'libboost-all-dev',
   'libcurl4-openssl-dev',
+  'libimage-exiftool-perl',
   'libibverbs-dev',
   'libkeyutils-dev',
   'libncurses5-dev',
