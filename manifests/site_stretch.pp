@@ -54,8 +54,6 @@ $packages = [
   'perltidy',
   'pigz',
   'procps',
-  'puppet',
-  'puppet-lint',
   'pxz',
   'pychecker',
   'pyflakes',
