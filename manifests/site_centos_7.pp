@@ -46,7 +46,6 @@ $packages = [
   'perl',
   'perltidy',
   'procps-ng',
-  'puppet',
   'pychecker',
   'python',
   'python-jinja2',
