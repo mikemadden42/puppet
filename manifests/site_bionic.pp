@@ -102,6 +102,7 @@ $packages = [
   's3cmd',
   'screen',
   'sed',
+  'silversearcher-ag',
   'snmp',
   'strace',
   'subversion',

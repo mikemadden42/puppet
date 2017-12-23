@@ -79,6 +79,7 @@ $packages = [
   'ruby',
   'screen',
   'sed',
+  'silversearcher-ag',
   'strace',
   'subversion',
   'sudo',
