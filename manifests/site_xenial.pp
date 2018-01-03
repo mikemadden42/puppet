@@ -3,6 +3,7 @@
 $packages = [
   'ant',
   'atop',
+  'automake',
   'awscli',
   'bash',
   'bc',
@@ -43,6 +44,7 @@ $packages = [
   'libimage-exiftool-perl',
   'libkeyutils-dev',
   'libldap2-dev',
+  'liblzma-dev',
   'libmysqlclient-dev',
   'libncurses5-dev',
   'libnuma-dev',
@@ -74,6 +76,7 @@ $packages = [
   'perl',
   'perltidy',
   'pigz',
+  'pkg-config',
   'procps',
   'prospector',
   'pxz',
@@ -114,7 +117,9 @@ $packages = [
   'wget',
   'xutils-dev',
   'xz-utils',
-  'zsh'
+  'zlib1g-dev',
+  'zsh',
+  'zsync'
 ]
 
 package { $packages:
