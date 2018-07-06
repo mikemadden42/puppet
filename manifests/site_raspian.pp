@@ -92,6 +92,7 @@ $packages = [
   'vim-nox',
   'w3m',
   'wget',
+  'xtrlock',
   'xz-utils',
   'zsh'
 ]
