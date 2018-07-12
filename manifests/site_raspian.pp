@@ -19,6 +19,7 @@ $packages = [
   'dos2unix',
   'enscript',
   'ethtool',
+  'flake8',
   'fping',
   'gawk',
   'git',
@@ -64,6 +65,8 @@ $packages = [
   'pylint',
   'python',
   'python-boto',
+  'python-boto3',
+  'python-flake8',
   'python-jinja2',
   'python-nose',
   'python-pip',
@@ -72,7 +75,10 @@ $packages = [
   'python-six',
   'python-virtualenv',
   'python-yaml',
+  'python3-boto',
+  'python3-boto3',
   'python3-jinja2',
+  'python3-nose',
   'python3-psutil',
   'python3-requests',
   'python3-six',
@@ -94,6 +100,7 @@ $packages = [
   'wget',
   'xtrlock',
   'xz-utils',
+  'yapf',
   'zsh'
 ]
 
