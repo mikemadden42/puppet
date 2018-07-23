@@ -92,6 +92,7 @@ $packages = [
   'strace',
   'subversion',
   'sudo',
+  'sysstat',
   'tar',
   'tcpdump',
   'tmux',
@@ -113,6 +114,7 @@ $services = [
   'ntp',
   'rsyslog',
   'ssh',
+  'sysstat',
 ]
 
 service { $services:
