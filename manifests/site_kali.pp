@@ -23,6 +23,7 @@ $packages = [
   'fping',
   'gawk',
   'git',
+  'gobuster',
   'golang',
   'grep',
   'gzip',
@@ -46,7 +47,7 @@ $packages = [
   'ninja-build',
   'nmap',
   'ntp',
-  'openjdk-8-jdk',
+  'openjdk-10-jdk',
   'openssh-client',
   'openssh-server',
   'openssl',
@@ -84,9 +85,11 @@ $packages = [
   's4cmd',
   'screen',
   'sed',
+  'silversearcher-ag',
   'strace',
   'subversion',
   'sudo',
+  'sysstat',
   'tar',
   'tcpdump',
   'tmux',
@@ -106,6 +109,7 @@ $services = [
   'ntp',
   'rsyslog',
   'ssh',
+  'sysstat',
 ]
 
 service { $services:
