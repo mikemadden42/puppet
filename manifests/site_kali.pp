@@ -39,6 +39,7 @@ $packages = [
   'libboost-all-dev',
   'libkeyutils-dev',
   'libperl-critic-perl',
+  'libssl-dev',
   'lsof',
   'make',
   'mlocate',
