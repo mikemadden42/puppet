@@ -96,6 +96,7 @@ $packages = [
   'python3-six',
   'python3-yaml',
   'rsync',
+  'rtorrent',
   'ruby',
   'ruby-dev',
   's3cmd',
